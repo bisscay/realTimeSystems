@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyMath
+comment1.params=
+comment1.target=MyMath()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyMath\r\n
+comment2.params=a\ b
+comment2.target=int\ sum(int,\ int)
+comment2.text=\r\n\ derive\ the\ sum\ of\ two\ passed\ values\r\n\ function\ overloading\r\n\r\n\ @param\ \ num1,num2\ values\ to\ be\ summed\r\n\ @return\ \ \ \ the\ sum\ of\ num1\ and\ num2\r\n
+comment3.params=myArray
+comment3.target=int\ sum(java.util.ArrayList)
+comment3.text=\r\n\ derive\ the\ sum\ of\ an\ N\ integer\ argument\r\n\ function\ overloading\r\n\ \r\n\ @param\ array\ list\r\n\ @return\ sum\ of\ array\ index\ values\r\n
+comment4.params=a\ b\ c
+comment4.target=int\ min(int,\ int,\ int)
+comment4.text=\r\n\ get\ the\ minimum\ \ of\ 3\ arguments\r\n\ function\ overloading\r\n\ \r\n\ @param\ a,b,c\ values\ to\ be\ compared\r\n\ @return\ minumum\ of\ 3\r\n
+comment5.params=myArray
+comment5.target=int\ min(java.util.ArrayList)
+comment5.text=\r\n\ get\ the\ minimum\ of\ values\ in\ the\ array's\ index\r\n\ function\ overloading\r\n\ \r\n\ @param\ array\ of\ integers\r\n\ @return\ minimum\ value\ in\ array\r\n
+comment6.params=numOp
+comment6.target=void\ sumTimeSpan(int)
+comment6.text=\r\n\ derive\ duration\ of\ sum\ operation\ due\ to\ number\ of\ initializations\r\n\ \r\n\ @param\ numOp\ number\ of\ operations\r\n\ @return\ void\r\n
+numComments=7
