@@ -1,4 +1,4 @@
-# realTimeSystems
+# RealTimeSystems
 #### Lab A
 - Create a new project called LabA_Exercise2, and add a MyMath class that will contain a set of methods to calculate simple mathematical operations. 
 - Write a test application using a second class named MyMathTest that has a main method and tests each method in the MyMath class. 
